@@ -1,4 +1,4 @@
 # Ngoding-Bareng
-Yuk ngoding bareng bareng guys.
+Edit1
 
 Belajar menyelesaikan permasalahan kodingan
